@@ -1,8 +1,7 @@
-package src.main.java;
-
-import org.mindrot.jbcrypt.BCrypt;
 import java.sql.SQLException;
 import java.util.List;
+
+import org.mindrot.jbcrypt.BCrypt;
 
 public class UserService {
     private UserDAO userDAO;

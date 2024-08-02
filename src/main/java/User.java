@@ -1,5 +1,3 @@
-package src.main.java;
-
 public class User {
     private String username;
     private String password;
